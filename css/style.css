@@ -1,0 +1,13 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+                url('../images/header.jpg') no-repeat center center / cover;
+}
+nav{
+    background: #00ffab;
+}
+footer{
+    background: #00ffab;
+}
